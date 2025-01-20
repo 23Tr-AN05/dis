@@ -18,7 +18,7 @@
  <hr/>
   <p id="para3">
  <p id="para2" style="border: 2px solid purple; padding: 10px;">[Plan détaillé (environ 30 min)]</p>
- <p id="para10">I- Thèse : La science explique à l’aide de théories, les phénomènes observés, elle semble être le plus sûr moyen d’y parvenir.w</p>
+ <p id="para10"><font style="color:#0000FF;">I- Thèse : La science explique à l’aide de théories, les phénomènes observés, elle semble être le plus sûr moyen d’y parvenir.</font></p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Elle fait de rigueur dans sa méthode (protocole), en vue d’établir des vérités sur le réel.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:green"> Référence : René DESCARTES → les vérités mathématiques</font>
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:orange">Exemple : E= mc2 / Théorème de Pythagore / Théorème de Thalès</font>
@@ -28,8 +28,8 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Ce que l’on observe, c’est que la science utilise d’autres domaines comme les mathématiques, la logique pour éviter de se tromper, donc en vue d’approcher une vérité démonstrative cohérente. C’est pourquoi la physique contemporaine utilise les mathématiques comme outil.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:orange">Exemple : la cinétique utilise la mécanique / en électricité utilisation de sinusoïde / Produit scalaire (outil math inventé pour les physiques) </font>
   <br><b>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Cependant, on observe dans l’histoire des sciences que la connaissance scientifique a progressé en se trompant, ce qui questionne la notion de vérité.</b></p>
-
- <p id="para10">II-Antithèse : montre les limites de la thèse : La science possède également un savoir zététique, qui la définit principalement dans la mesure à ses connaissances peuvent être remises en question.</p>
+ <br><br>
+ <p id="para10"><font style="color:#0000FF;">II-Antithèse : montre les limites de la thèse : La science possède également un savoir zététique, qui la définit principalement dans la mesure à ses connaissances peuvent être remises en question.</font></p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;La connaissance scientifique évolue grâce aux erreurs qu’elle commet.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:green">Référence :Thomas KUHN → Le changement de paradigme</font>
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:orange">Exemple : KEPLER → NEWTON → EINSTEIN </font>
@@ -40,7 +40,8 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:green">Référence : Karl POPPER </font>
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:orange">Exemple : Remise en question des théorèmes régulièrement ou contre-exemple : Ne sont pas scientifiques la théorie freudienne de l’inconscient et la théorie de la lutte des classes (dominant / dominé) de Karl MARX </font>
   <br><b>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Néanmoins, la connaissance scientifique, si elle apporte des éléments de compréhension sur le réel, on ne peut pas parler de vérité totale sur ce dernier.</b></p>
- <p id="para10">III- Comment la connaissance scientifique peut établir des vérités sur la réalité et est-ce possible ? </p>
+  <br><br>
+ <p id="para10"><font style="color:#0000FF;">III- Comment la connaissance scientifique peut établir des vérités sur la réalité et est-ce possible ?</font> </p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;La notion de vérité sous-entend qu’il existerait une vérité générale qui comprendrait la totalité des phénomènes. Or on observe qu’une théorie englobante semble impossible, car plus nos connaissance progressent, plus on prend conscience de ce que l’on ignore.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:green">Référence : EINSTEIN et INFELD → la vérité est idéalisée par le chercheur</font>
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:orange">Exemple : en Neurologie, les connaissances sur le cerveau sont limitées.</font>
