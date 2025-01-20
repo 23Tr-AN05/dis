@@ -18,7 +18,7 @@
  <hr/>
   <p id="para3">
  <p id="para2" style="border: 2px solid purple; padding: 10px;">[Plan détaillé (environ 30 min)]</p>
- <p id="para10">I- Thèse : La science explique à l’aide de théories, les phénomènes observés, elle semble être le plus sûr moyen d’y parvenir.
+ <p id="para10">I- Thèse : La science explique à l’aide de théories, les phénomènes observés, elle semble être le plus sûr moyen d’y parvenir.w</p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Elle fait de rigueur dans sa méthode (protocole), en vue d’établir des vérités sur le réel.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:green"> Référence : René DESCARTES → les vérités mathématiques</font>
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:orange">Exemple : E= mc2 / Théorème de Pythagore / Théorème de Thalès</font>
