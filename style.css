@@ -1,0 +1,116 @@
+
+#h1{
+  font-size:35px;
+  text-align:center;
+  color:rgb(228, 19, 19);
+  background-color:yellow;
+}
+#para1{
+  font-size:50px;
+  text-align:center;
+  color:rgb(243, 40, 40);
+}
+    #para2{
+        font-size:30px;
+        text-align:center;
+        color:rgb(27, 27, 245);
+    }
+    #para3{
+        font-size:20px;
+        text-align:left;
+        color:#000000;
+    }
+    #para4{
+        font-size:30px;
+        text-align:center;
+        color:#14d814;
+    }
+    #para5{
+        font-size:30px;
+        text-align:right;
+        color:#FF1000;
+    }
+    #para6{
+        font-size:20px;
+        text-align:left;
+        color:#13A640;
+    }
+     #para7{
+        font-size:30px;
+        text-align:center;
+        color:#C100AA;
+    }
+    #para8{
+        font-size:30px;
+        text-align:left;
+        color:#00FF00;
+    }
+    #para9{
+        font-size:30px;
+        text-align:center;
+        color:#00FF00;
+    }
+     #para10{
+        font-size:26px;
+        text-align:left;
+        color:#100100;
+    }
+     #para11{
+	font-size:20px;
+	text-align:right;
+	color:red;
+    }
+    mark{
+        background-color:yellow;
+        color:black;
+    }
+    #m1{
+        background-color:#FFDCDA;
+        color: black;
+    }
+    #m2{
+        background-color:#8FFF6D;
+        color: black;
+    }
+    #m3{
+         background-color:#C1FFFC;
+        color: black;
+    }
+    #m4{
+        background-color:#00FFFF;
+        color:black;
+    }
+    #m5{
+         background-color:yellow;
+     }
+    
+    #p1{
+        text-align:center;
+    }
+    #p2{
+        font-size:20px;
+        text-align:center;
+    }
+    
+
+
+.collapsible {
+  background-color: #A1FCDC;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+ }
+ .active, .collapsible:hover {
+    background-color: #FFFF5B;
+ }
+ .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color:#E1E5FF;
+ }
